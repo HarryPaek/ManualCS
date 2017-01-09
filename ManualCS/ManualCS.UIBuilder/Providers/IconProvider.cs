@@ -31,10 +31,6 @@ namespace ManualCS.UIBuilder.Providers
             
             iconList.Images.Add(IconResource.ActiveServerPage_asp__11272_32x);
             iconList.Images.Add(IconResource.BDCModelTemplate_32x);
-
-            
-            iconList.Images.Add(IconResource.ActiveServerPage_asp__11272_32x);
-            iconList.Images.Add(IconResource.BDCModelTemplate_32x);
             iconList.Images.Add(IconResource.BrokenlinktoFile_431_32x);
             iconList.Images.Add(IconResource.CABProject_5818_32x);
             iconList.Images.Add(IconResource.ClassIcon_32x);

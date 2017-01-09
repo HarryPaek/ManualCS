@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ManualCS.UI.Events
+namespace ManualCS.UIBuilder.Events
 {
     public class ManageItemEventHandler
     {
@@ -25,16 +25,16 @@ namespace ManualCS.UI.Events
 
         private void ManageItemButton_Click(object sender, EventArgs e)
         {
-            ManageItem manageItem = RetrieveManageItemFromButtonTag(sender as Button);
+            ManageItem manageItem = RetrieveManageItemFromButtonTag(sender as Control);
 
             if (manageItem != null)
                 MessageBox.Show(string.Format("파일 [{0}]이(가) 선택되었습니다.", manageItem.FileName), "Selected ManageItem", MessageBoxButtons.OK);
         }
 
-        private ManageItem RetrieveManageItemFromButtonTag(Button button)
+        private ManageItem RetrieveManageItemFromButtonTag(Control control)
         {
-            if (button != null)
-                return button.Tag as ManageItem;
+            if (control != null)
+                return control.Tag as ManageItem;
 
             return null;
         }

@@ -119,186 +119,186 @@
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="ActiveServerPage_asp__11272_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ActiveServerPage(asp)_11272_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\ActiveServerPage(asp)_11272_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="BDCModelTemplate_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BDCModelTemplate_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\BDCModelTemplate_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="BrokenlinktoFile_431_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BrokenlinktoFile_431_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\BrokenlinktoFile_431_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CABProject_5818_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CABProject_5818_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\CABProject_5818_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ClassIcon_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ClassIcon_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\ClassIcon_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CompiledMSHelpFile_11556_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CompiledMSHelpFile_11556_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\CompiledMSHelpFile_11556_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ComponentDiagramFile_componentdiagram_13449_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ComponentDiagramFile_componentdiagram_13449_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\ComponentDiagramFile_componentdiagram_13449_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CPPWMIEventProvider_7864_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CPPWMIEventProvider_7864_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\CPPWMIEventProvider_7864_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CSEmptyCodeFile_753_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CSEmptyCodeFile_753_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\CSEmptyCodeFile_753_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CustomActions_6334_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CustomActions_6334_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\CustomActions_6334_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DatabaseProject_7342_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DatabaseProject_7342_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\DatabaseProject_7342_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DBSchema_12823_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DBSchema_12823_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\DBSchema_12823_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DeploymentDiagram_SubsystemMapper__11298_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DeploymentDiagram(SubsystemMapper)_11298_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\DeploymentDiagram(SubsystemMapper)_11298_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DialogGroup_5846_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DialogGroup_5846_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\DialogGroup_5846_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DialogID_6220_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DialogID_6220_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\DialogID_6220_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="FieldsHeader_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FieldsHeader_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\FieldsHeader_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Folder_special__5843_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Folder(special)_5843_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\Folder(special)_5843_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GenericVSProject_9906_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\GenericVSProject_9906_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\GenericVSProject_9906_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GlobalApplicationClass_asax__443_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\GlobalApplicationClass(asax)_443_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\GlobalApplicationClass(asax)_443_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="HTMLPage_HTM__825_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HTMLPage(HTM)_825_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\HTMLPage(HTM)_825_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Index_8287_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Index_8287_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\Index_8287_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LinkedServer_12789_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LinkedServer_12789_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\LinkedServer_12789_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LoginScreen_7349_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LoginScreen_7349_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\LoginScreen_7349_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Login_6031_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Login_6031_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\Login_6031_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MainMenuControl_688_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MainMenuControl_688_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\MainMenuControl_688_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MapTileLayer_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MapTileLayer_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\MapTileLayer_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MasterPage_6478_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MasterPage_6478_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\MasterPage_6478_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MergeModuleReference_6335_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MergeModuleReference_6335_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\MergeModuleReference_6335_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ModelingProject_13455_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ModelingProject_13455_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\ModelingProject_13455_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MSHelpCollectionDefinitionFile_11560_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MSHelpCollectionDefinitionFile_11560_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\MSHelpCollectionDefinitionFile_11560_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PolicyWarnings_large__7879" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PolicyWarnings(large)_7879.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\PolicyWarnings(large)_7879.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Procedure_8937_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Procedure_8937_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\Procedure_8937_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="project_control_on_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\project_control_on_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\project_control_on_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RegistryEditor_5838_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RegistryEditor_5838_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\RegistryEditor_5838_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Reports_collapsed_12995_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Reports-collapsed_12995_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\Reports-collapsed_12995_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SequenceDiagramFile_sequencediagram_13452_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SequenceDiagramFile_sequencediagram_13452_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\SequenceDiagramFile_sequencediagram_13452_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SetupProjectWizard_5827_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SetupProjectWizard_5827_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\SetupProjectWizard_5827_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Setup_6331_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Setup_6331_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\Setup_6331_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="setup_v_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\setup-v_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\setup-v_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Shortcut_8169_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Shortcut_8169_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\Shortcut_8169_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SingleOutput_8170_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SingleOutput_8170_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\SingleOutput_8170_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SoftwareDefinitionModel_11321_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SoftwareDefinitionModel_11321_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\SoftwareDefinitionModel_11321_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="StyleSheet_css__7483_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\StyleSheet(css)_7483_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\StyleSheet(css)_7483_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Textfile_818_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Textfile_818_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\Textfile_818_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TFSServer_13310_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TFSServer_13310_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\TFSServer_13310_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ToolBarControl_710_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ToolBarControl_710_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\ToolBarControl_710_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UMLModelFile_13454_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UMLModelFile_13454_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\UMLModelFile_13454_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UseCaseDiagramFile_usecasediagram_13447_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UseCaseDiagramFile_usecasediagram_13447_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\UseCaseDiagramFile_usecasediagram_13447_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UserDefinedDataType_8271_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UserDefinedDataType_8271_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\UserDefinedDataType_8271_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UserInterfaceEditor_5845_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UserInterfaceEditor_5845_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\UserInterfaceEditor_5845_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="VBEmptyCodefile_793_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\VBEmptyCodefile_793_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\VBEmptyCodefile_793_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="View_8933_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\View_8933_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\View_8933_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="VSNETWebServiceDynamicDiscovery_8215_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\VSNETWebServiceDynamicDiscovery_8215_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\VSNETWebServiceDynamicDiscovery_8215_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WCFDataServices_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WCFDataServices_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\WCFDataServices_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WebCustomControl_ASCX__816_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WebCustomControl(ASCX)_816_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\WebCustomControl(ASCX)_816_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WebForm_ASPX__815_32x_color" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WebForm(ASPX)_815_32x_color.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\WebForm(ASPX)_815_32x_color.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WebUserControl_ascx__11270_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WebUserControl(ascx)_11270_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\WebUserControl(ascx)_11270_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WindowsForm_817_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WindowsForm_817_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\WindowsForm_817_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="XMLFile_828_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\XMLFile_828_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\XMLFile_828_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="XMLSchema_798_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\XMLSchema_798_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\XMLSchema_798_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="XSXDSchema_ElementIcon_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\XSXDSchema_ElementIcon_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>Resources\XSXDSchema_ElementIcon_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

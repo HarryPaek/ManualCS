@@ -53,7 +53,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Events\ManageItemEventHandler.cs" />
     <Compile Include="MainWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,19 +61,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
     <EmbeddedResource Include="MainWindow.resx">
       <DependentUpon>MainWindow.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -89,192 +80,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Setup_6331_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SetupProjectWizard_5827_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\setup-v_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Shortcut_8169_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SingleOutput_8170_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SoftwareDefinitionModel_11321_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\StyleSheet%28css%29_7483_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Textfile_818_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\TFSServer_13310_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ToolBarControl_710_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\UMLModelFile_13454_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\UseCaseDiagramFile_usecasediagram_13447_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\UserDefinedDataType_8271_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\UserInterfaceEditor_5845_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\VBEmptyCodefile_793_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\View_8933_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\VSNETWebServiceDynamicDiscovery_8215_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\WCFDataServices_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\WebCustomControl%28ASCX%29_816_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\WebForm%28ASPX%29_815_32x_color.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\WebUserControl%28ascx%29_11270_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\WindowsForm_817_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\XMLFile_828_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\XMLSchema_798_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\XSXDSchema_ElementIcon_32x32.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ActiveServerPage%28asp%29_11272_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\BDCModelTemplate_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\BrokenlinktoFile_431_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CABProject_5818_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ClassIcon_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CompiledMSHelpFile_11556_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ComponentDiagramFile_componentdiagram_13449_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CPPWMIEventProvider_7864_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CSEmptyCodeFile_753_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CustomActions_6334_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\DatabaseProject_7342_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\DBSchema_12823_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\DeploymentDiagram%28SubsystemMapper%29_11298_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\DialogGroup_5846_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\DialogID_6220_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\FieldsHeader_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Folder%28special%29_5843_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\GenericVSProject_9906_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\GlobalApplicationClass%28asax%29_443_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\HTMLPage%28HTM%29_825_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Index_8287_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\LinkedServer_12789_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Login_6031_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\LoginScreen_7349_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\MainMenuControl_688_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\MapTileLayer_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\MasterPage_6478_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\MergeModuleReference_6335_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ModelingProject_13455_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\MSHelpCollectionDefinitionFile_11560_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\PolicyWarnings%28large%29_7879.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Procedure_8937_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\project_control_on_32x32.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\RegistryEditor_5838_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Reports-collapsed_12995_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SequenceDiagramFile_sequencediagram_13452_32x.png" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\ManualCS.Data\ManualCS.Data.csproj">
       <Project>{9685c25e-8f09-4a25-a1b6-f3f7b8f7bbc7}</Project>
       <Name>ManualCS.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ManualCS.UIBuilder\ManualCS.UIBuilder.csproj">
+      <Project>{af48af69-90b6-4120-b816-5012d13e36ed}</Project>
+      <Name>ManualCS.UIBuilder</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

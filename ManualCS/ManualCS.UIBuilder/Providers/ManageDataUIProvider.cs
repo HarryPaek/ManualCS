@@ -16,11 +16,22 @@ namespace ManualCS.UIBuilder.Providers
     {
         private ImageList iconList = new IconProvider().IconList;
         private ManageItemEventHandler manageItemEventHandler = new ManageItemEventHandler();
-        
+
+        # region IManageDataUIProvider implementation
+
         public IEnumerable<Control> GetUIComponents()
         {
             return GetManageDataUIComponents();
         }
+
+        public void BuildSubItemUI(Control parent, Control container)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
+
+        #region Private Methods
 
         private IEnumerable<Control> GetManageDataUIComponents()
         {
@@ -46,13 +57,9 @@ namespace ManualCS.UIBuilder.Providers
             vNavPaneItemEx.HeaderText = category.HeaderText;
             vNavPaneItemEx.TooltipText = category.HeaderText;
             vNavPaneItemEx.Name = string.Format("vNavPItem{0}", category.Name);
-            // vNavPaneItemEx.TabIndex = this.vNavCategory.Items.Count;
             vNavPaneItemEx.Text = category.Name;
 
             vNavPaneItemEx.ItemPanel.AutoScroll = true;
-
-            // this.vNavCategory.Controls.Add(vNavPaneItemEx);
-            // this.vNavCategory.Items.Add(vNavPaneItemEx);
 
             return vNavPaneItemEx;
         }
@@ -93,5 +100,6 @@ namespace ManualCS.UIBuilder.Providers
             return buttonEx;
         }
 
+        #endregion
     }
 }

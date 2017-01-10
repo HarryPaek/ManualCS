@@ -60,6 +60,7 @@
       <DependentUpon>IconResource.resx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Providers\ManageDataButtonUIProvider.cs" />
     <Compile Include="Providers\ManageDataUIProvider.cs" />
   </ItemGroup>
   <ItemGroup>

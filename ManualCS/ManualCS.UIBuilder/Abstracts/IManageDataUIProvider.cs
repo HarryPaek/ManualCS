@@ -10,5 +10,6 @@ namespace ManualCS.UIBuilder.Abstracts
     public interface IManageDataUIProvider
     {
         IEnumerable<Control> GetUIComponents();
+        void BuildSubItemUI(Control parent, Control container);
     }
 }

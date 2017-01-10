@@ -11,6 +11,16 @@ namespace ManualCS.UIBuilder.Events
     public class ManageItemEventHandler
     {
         private EventHandler eventHandler = null;
+        private Action<ManageItem> manageItemButtonClickAction = null;
+
+        public ManageItemEventHandler()
+        {
+        }
+
+        public ManageItemEventHandler(Action<ManageItem> manageItemButtonClickAction)
+        {
+            this.manageItemButtonClickAction = manageItemButtonClickAction;
+        }
 
         public EventHandler EventHandler
         {
@@ -29,6 +39,11 @@ namespace ManualCS.UIBuilder.Events
 
             if (manageItem != null)
                 MessageBox.Show(string.Format("파일 [{0}]이(가) 선택되었습니다.", manageItem.FileName), "Selected ManageItem", MessageBoxButtons.OK);
+
+            var clickAction = manageItemButtonClickAction;
+
+            if (clickAction != null)
+                clickAction(manageItem);
         }
 
         private ManageItem RetrieveManageItemFromButtonTag(Control control)

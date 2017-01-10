@@ -7,8 +7,6 @@ namespace ManualCS.UI
 {
     public partial class MainWindow : Form
     {
-        IManageDataUIProvider uiProvider = new ManageDataUIProvider();
-
         public MainWindow()
         {
             InitializeComponent();
